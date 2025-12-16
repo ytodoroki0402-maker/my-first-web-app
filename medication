@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【クリニック名】 | 次世代ウェルネス自費診療専門</title>
+    </head>
+<body>
+
+    <header class="global-header">
+        <div class="container">
+            <h1 class="logo">[クリニック名]</h1>
+            <nav class="global-nav">
+                <ul>
+                    <li><a href="#menu">治療メニュー</a></li>
+                    <li><a href="#price">料金表（金額例示）</a></li>
+                    <li><a href="#clinic">クリニック情報</a></li>
+                </ul>
+            </nav>
+            <a href="[予約プラットフォームURL]" class="btn btn-primary btn-cta">オンライン予約</a>
+        </div>
+    </header>
+
+    <section class="hero-section dark-theme">
+        <div class="container">
+            <div class="hero-image-overlay"></div>
+
+            <hgroup class="hero-content">
+                <p class="sub-heading">最新の自費診療で未来の健康を</p>
+                <h2 class="main-catchphrase">科学に基づいた、あなたのための<br>次世代ウェルネス治療</h2>
+            </hgroup>
+            
+            <div class="cta-group">
+                <a href="[予約プラットフォームURL]" class="btn btn-large btn-cta">無料カウンセリングを予約する</a>
+                <a href="#price" class="link-price">治療費の目安を見る &rarr;</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="concept" class="section concept-section dark-theme">
+        <div class="container">
+            <h3 class="section-title">なぜ、当クリニックが選ばれるのか</h3>
+            <div class="concept-items">
+                <article class="concept-item">
+                    <h4>高度な専門知識</h4>
+                    <p>最新の論文に基づいた知見と、経験豊富な専門医による指導を提供します。</p>
+                </article>
+                <article class="concept-item">
+                    <h4>厳格な安全性基準</h4>
+                    <p>使用する薬剤や機器は全て厳格な基準をクリアし、安全性を最優先しています。</p>
+                </article>
+                <article class="concept-item">
+                    <h4>個別化されたプラン</h4>
+                    <p>一人ひとりの体質や目標に合わせ、最適な治療プランをご提案します。</p>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <section id="menu" class="section service-section dark-theme">
+        <div class="container">
+            <h3 class="section-title">主要な自費診療メニュー</h3>
+            <div class="service-list">
+                <article class="service-card">
+                    <h4>【メイン治療】GLP-1受容体作動薬 (マンジャロ/他)</h4>
+                    <p>最新の科学に基づいた体重管理プログラム。医師の指導のもと、目標達成をサポート。</p>
+                    <a href="[詳細ページURL]" class="btn-detail">詳細・適応を見る &rarr;</a>
+                </article>
+                <article class="service-card">
+                    <h4>高濃度栄養点滴・美容点滴</h4>
+                    <p>疲労回復、免疫力向上、美容を目的とした、カスタムメイドの点滴療法。</p>
+                    <a href="[詳細ページURL]" class="btn-detail">詳細・成分を見る &rarr;</a>
+                </article>
+                <article class="service-card">
+                    <h4>その他のウェルネスプログラム</h4>
+                    <p>ホルモン療法、サプリメント指導など、包括的な自費診療プログラム。</p>
+                    <a href="[詳細ページURL]" class="btn-detail">詳細を見る &rarr;</a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <section id="price" class="section price-highlight-section dark-theme">
+        <div class="container">
+            <h3 class="section-title">透明性の高い価格設定（金額例示）</h3>
+            <div class="price-cards">
+                <div class="price-card">
+                    <p class="service-name">マンジャロ (月額目安)</p>
+                    <p class="price-value">¥XX,XXX <span class="tax-note">（税込）〜</span></p>
+                </div>
+                <div class="price-card">
+                    <p class="service-name">高濃度ビタミンC点滴 (1回)</p>
+                    <p class="price-value">¥XX,XXX <span class="tax-note">（税込）〜</span></p>
+                </div>
+            </div>
+            <p class="price-note">* 自費診療のため、費用は全額自己負担となります。プランや用量により金額は変動します。</p>
+            <a href="[料金表ページURL]" class="btn btn-outline">全料金表を見る</a>
+        </div>
+    </section>
+
+    <section id="expert" class="section expert-section dark-theme">
+        <div class="container">
+            <h3 class="section-title">専門医のご紹介</h3>
+            <div class="expert-content">
+                <div class="expert-photo">[医師の顔写真]</div>
+                <div class="expert-text">
+                    <h4>[医師氏名]</h4>
+                    <p>「最新の医療技術を、より身近に、安全に提供することを目指しています。」</p>
+                    <a href="[詳細プロフィールURL]" class="link-profile">プロフィール詳細へ &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section final-cta-section dark-theme">
+        <div class="container">
+            <h2>まずは無料カウンセリングから</h2>
+            <p>ご不安な点やご質問にお答えします。オンラインで簡単にご予約いただけます。</p>
+            <a href="[予約プラットフォームURL]" class="btn btn-large btn-cta">オンライン予約はこちらから</a>
+            <p class="contact-info">または <a href="[問い合わせフォームURL]">お問い合わせフォーム</a> / <a href="[電話番号]">電話でのお問い合わせ</a></p>
+        </div>
+    </section>
+
+    <footer class="global-footer dark-theme">
+        <div class="container">
+            <p class="copyright">&copy; [年] [クリニック名] All Rights Reserved.</p>
+            <nav class="footer-nav">
+                <ul>
+                    <li><a href="[プライバシーポリシーURL]">プライバシーポリシー</a></li>
+                    <li><a href="[特定商取引法に基づく表記URL]">特定商取引法に基づく表記</a></li>
+                    <li><a href="[アクセスURL]">アクセス</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+</html>
